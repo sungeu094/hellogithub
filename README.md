@@ -1,1 +1,3 @@
 # gitstudy 05
+# my first repo...
+
